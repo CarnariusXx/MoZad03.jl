@@ -1,0 +1,13 @@
+name = "MoZad03"
+uuid = "3a1d8d35-428c-4413-a2f9-9ec462caf68a"
+authors = ["Konrad Mielnik"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
